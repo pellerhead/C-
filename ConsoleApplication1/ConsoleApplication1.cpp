@@ -89,7 +89,7 @@ int main() {
 	std::cout << carObj1.getBrand() << " " << carObj1.getModel() << " " << carObj1.getYear() << " " << carObj1.getTire().getShape() << "\n";
 	std::cout << carObj2.getBrand() << " " << carObj2.getModel() << " " << carObj2.getYear() << " " << carObj2.getTire().getShape() << "\n\n";
 
-	std::count << "Done";
+	std::count << "All over";
 	
 	return 0;
 }
